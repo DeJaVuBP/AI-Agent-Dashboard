@@ -1,0 +1,14 @@
+langchain
+wikipedia
+langchain-openai
+langchain-community
+langchain-anthropic
+python-dotenv
+pydantic
+google-genai
+streamlit
+pandas
+plotly
+openpyxl
+pyyaml
+pytest

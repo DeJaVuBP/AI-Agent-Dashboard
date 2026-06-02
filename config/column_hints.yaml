@@ -1,0 +1,28 @@
+metrics:
+  - sales
+  - profit
+  - revenue
+  - amount
+  - cost
+  - price
+  - quantity
+  - discount
+dimensions:
+  - category
+  - segment
+  - region
+  - state
+  - city
+  - country
+  - sub category
+  - ship mode
+  - customer
+dates:
+  - date
+  - order date
+  - ship date
+ids:
+  - id
+  - code
+  - postal
+  - zip
