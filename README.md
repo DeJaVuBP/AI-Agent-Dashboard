@@ -1,4 +1,4 @@
-# AI Excel Dashboard Agent
+# AI Dashboard Agent
 
 This project converts tabular files (Excel/CSV) into an automatic Streamlit dashboard.
 
